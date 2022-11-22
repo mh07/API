@@ -31,7 +31,7 @@ namespace Script
     public partial class WorkFlowScript
     {
         
-        private void set_StServiceCallActivity4_checkpoints(STActivityBase activity)
+        private void set_StServiceCallActivity18_checkpoints(STActivityBase activity)
         {
             VTDPropertyInfoBase stracturalOutputEnvelope = new VTDPropertyInfoBase("OutputEnvelope", "/*[local-name(.)=\'Envelope\'][1]");
             IList<VTDPropertyInfoBase> stracturalPropsInfo = new List<VTDPropertyInfoBase>();
@@ -78,7 +78,7 @@ namespace Script
 
         }
         
-        private void set_StServiceCallActivity5_checkpoints(STActivityBase activity)
+        private void set_StServiceCallActivity21_checkpoints(STActivityBase activity)
         {
             VTDPropertyInfoBase stracturalOutputEnvelope = new VTDPropertyInfoBase("OutputEnvelope", "/*[local-name(.)=\'Envelope\'][1]");
             IList<VTDPropertyInfoBase> stracturalPropsInfo = new List<VTDPropertyInfoBase>();

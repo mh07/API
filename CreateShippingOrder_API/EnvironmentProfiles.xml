@@ -32,13 +32,13 @@
     <VarName>TestDir</VarName>
     <IsSystem>true</IsSystem>
     <Description />
-    <SystemProfile />
+    <SystemProfile>C:\Users\demo\Documents\UFT One\API\CreateShippingOrder_API</SystemProfile>
   </Profiles>
   <Profiles>
     <VarName>TestName</VarName>
     <IsSystem>true</IsSystem>
     <Description />
-    <SystemProfile />
+    <SystemProfile>CreateShippingOrder_API</SystemProfile>
   </Profiles>
   <Profiles>
     <VarName>LocalHostName</VarName>
@@ -86,7 +86,7 @@
     <VarName>CurrentDate</VarName>
     <IsSystem>true</IsSystem>
     <Description />
-    <SystemProfile>11/22/2022 6:17:02 PM</SystemProfile>
+    <SystemProfile>11/22/2022 6:58:32 PM</SystemProfile>
   </Profiles>
   <Profiles>
     <VarName>QcUrl</VarName>

@@ -21,9 +21,9 @@ using System;
     public HP.ST.Ext.BasicActivities.StartActivity StartActivity1 = null;
     public HP.ST.Fwk.RunTimeFWK.CompositeActivities.Loop<Loop2Input> Loop2 = null;
     public HP.ST.Ext.BasicActivities.EndActivity EndActivity3 = null;
-    public HP.ST.Fwk.RunTimeFWK.CompositeActivities.Sequence Sequence6 = null;
-    public HP.ST.Ext.WebServicesActivities.StServiceCallActivity StServiceCallActivity4 = null;
-    public HP.ST.Ext.WebServicesActivities.StServiceCallActivity StServiceCallActivity5 = null;
+    public HP.ST.Fwk.RunTimeFWK.CompositeActivities.Sequence Sequence22 = null;
+    public HP.ST.Ext.WebServicesActivities.StServiceCallActivity StServiceCallActivity18 = null;
+    public HP.ST.Ext.WebServicesActivities.StServiceCallActivity StServiceCallActivity21 = null;
     
     }
     

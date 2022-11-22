@@ -16,7 +16,9 @@
         $(ST_INSTALL_PATH)\AddIns\ServiceTest\BaseDataProviders\;
       
 $(ST_INSTALL_PATH)\AddIns\ServiceTest\WSImportTechnology;
-$(ST_INSTALL_PATH)\AddIns\ServiceTest\JMS;</ReferencePath>
+$(ST_INSTALL_PATH)\AddIns\ServiceTest\JMS;
+$(ST_INSTALL_PATH)\AddIns\ServiceTest\REST;
+$(ST_INSTALL_PATH)\AddIns\ServiceTest\HTTPActivity;</ReferencePath>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <OutputPath>bin</OutputPath>
     <RegisterForComInterop>False</RegisterForComInterop>
